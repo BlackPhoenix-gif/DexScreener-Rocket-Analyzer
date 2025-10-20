@@ -1,3 +1,7 @@
+[![GitHub release](https://img.shields.io/github/v/release/BlackPhoenix-gif/DexScreener-Rocket-Analyzer)](https://github.com/BlackPhoenix-gif/DexScreener-Rocket-Analyzer/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Made with Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+
 Languages: [🇬🇧 English](README.en.md) | [🇷🇺 Русский](README.ru.md)
 
 
