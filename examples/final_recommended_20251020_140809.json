@@ -1,0 +1,755 @@
+{
+  "timestamp": "2025-10-20T14:08:09.000335",
+  "total_tokens": 27,
+  "recommended_count": 6,
+  "risk_distribution": {
+    "scam": 12,
+    "high": 5,
+    "medium": 5,
+    "low": 5
+  },
+  "recommended_tokens": [
+    {
+      "basic_info": {
+        "symbol": "rug",
+        "name": "mascot of the trenches",
+        "network": "solana",
+        "address": "Gtas1jTXjD4EpYqDFKk7cEaArFSdaUXKu6bGhbSvpump",
+        "age": "3н 3д",
+        "age_hours": 595.0196692322455
+      },
+      "price_metrics": {
+        "price_usd": 0.0002129,
+        "price_native": 1.111e-06,
+        "price_change_1h": -21.37,
+        "price_change_6h": 27.19,
+        "price_change_24h": 30.78
+      },
+      "market_metrics": {
+        "liquidity_usd": 59438.9,
+        "volume_24h": 36948.14,
+        "volume_6h": 24388.17,
+        "volume_1h": 4574.36,
+        "volume_liquidity_ratio": 0.6216154740414106,
+        "market_cap": 212749.0,
+        "fdv": 212749.0
+      },
+      "transaction_metrics": {
+        "buys_24h": 162,
+        "sells_24h": 108,
+        "buy_sell_ratio": 0.6
+      },
+      "risk_metrics": {
+        "risk_score": 60,
+        "risk_level": "Средний",
+        "risk_factors": [
+          "🚨 КРИТИЧНО: Ликвидность НЕ заблокирована - высокий риск rug pull!"
+        ]
+      },
+      "analysis": {
+        "trend": "ОТКАТ - возможен отскок",
+        "liquidity": "Средняя ликвидность - рекомендуется осторожность",
+        "age": "Токен прошел начальную стабилизацию (>7 дней)",
+        "transactions": "Сбалансированные покупки/продажи",
+        "growth": "Стабильный рост"
+      },
+      "links": {
+        "dex": "https://jup.ag/swap/SOL-Gtas1jTXjD4EpYqDFKk7cEaArFSdaUXKu6bGhbSvpump",
+        "explorer": "https://solscan.io/token/Gtas1jTXjD4EpYqDFKk7cEaArFSdaUXKu6bGhbSvpump",
+        "dexscreener": "https://dexscreener.com/solana/Gtas1jTXjD4EpYqDFKk7cEaArFSdaUXKu6bGhbSvpump",
+        "websites": [
+          {
+            "label": "Website",
+            "url": "https://rugrugrug.me/"
+          }
+        ],
+        "socials": [
+          {
+            "type": "twitter",
+            "url": "https://x.com/i/communities/1972734913892725237"
+          }
+        ]
+      },
+      "contract_info": {
+        "verified": false,
+        "holders": {}
+      },
+      "verification_data": {
+        "is_verified": true,
+        "is_honeypot": false,
+        "buy_tax": "0",
+        "sell_tax": "0",
+        "owner_address": "",
+        "can_take_back_ownership": false,
+        "has_mint_function": false,
+        "has_blacklist": false,
+        "is_proxy": false,
+        "verification_source": "Solana Token Registry",
+        "error_message": ""
+      },
+      "liquidity_lock": {
+        "is_locked": false,
+        "locked_percentage": 0.0,
+        "unlock_date": "",
+        "lock_duration_days": 0,
+        "platform": "",
+        "lock_contract": "",
+        "total_locked_amount": 0.0,
+        "lock_transaction": "",
+        "is_renewable": false,
+        "lock_owner": "",
+        "lock_score": 0,
+        "safety_level": "LOW",
+        "warnings": [
+          "Не удалось найти информацию о блокировке ликвидности",
+          "❌ КРИТИЧНО: Ликвидность НЕ заблокирована! Высокий риск rug pull!"
+        ]
+      },
+      "security_analysis": {
+        "security_score": 0.48300000000000004,
+        "contract_verified": false,
+        "ownership_renounced": true,
+        "liquidity_locked": false,
+        "honeypot_probability": 0.3,
+        "security_issues": [],
+        "security_level": "MEDIUM",
+        "security_recommendations": [
+          "🟡 СРЕДНИЙ РИСК - ТРЕБУЕТСЯ ДОПОЛНИТЕЛЬНЫЙ АНАЛИЗ",
+          "⚠️ Контракт не верифицирован - проверьте исходный код",
+          "⚠️ Ликвидность не заблокирована - риск rug pull"
+        ],
+        "external_checks": {
+          "honeypot_check": 0.3,
+          "contract_verification": false,
+          "dexscreener": {
+            "found": false
+          },
+          "universal_checks": {
+            "sources": [],
+            "trust_level": "unknown",
+            "risk_score": 0.5
+          }
+        }
+      }
+    },
+    {
+      "basic_info": {
+        "symbol": "H",
+        "name": "Humanity",
+        "network": "bsc",
+        "address": "0x44F161aE29361E332dEA039DFA2F404E0bC5B5Cc",
+        "age": "4м",
+        "age_hours": 2881.8874470161268
+      },
+      "price_metrics": {
+        "price_usd": 0.1453,
+        "price_native": 0.1453,
+        "price_change_1h": 0.57,
+        "price_change_6h": 1.1,
+        "price_change_24h": 27.16
+      },
+      "market_metrics": {
+        "liquidity_usd": 565309.06,
+        "volume_24h": 9071044.91,
+        "volume_6h": 1086673.0,
+        "volume_1h": 162624.2,
+        "volume_liquidity_ratio": 16.04616934672867,
+        "market_cap": 265300250.0,
+        "fdv": 14266870.0
+      },
+      "transaction_metrics": {
+        "buys_24h": 26987,
+        "sells_24h": 28133,
+        "buy_sell_ratio": 0.4896044992743106
+      },
+      "risk_metrics": {
+        "risk_score": 30,
+        "risk_level": "Умеренный",
+        "risk_factors": [
+          "Proxy контракт",
+          "Нет информации о сайте и социальных сетях",
+          "Высокое соотношение объем/ликвидность - повышенная волатильность"
+        ]
+      },
+      "analysis": {
+        "trend": "УСТОЙЧИВЫЙ РОСТ - хорошая среднесрочная перспектива",
+        "liquidity": "Хорошая ликвидность (>$250K) обеспечивает стабильность",
+        "age": "Проверенный временем токен (>30 дней)",
+        "transactions": "Сбалансированные покупки/продажи",
+        "growth": "Стабильный рост"
+      },
+      "links": {
+        "dex": "https://pancakeswap.finance/swap?outputCurrency=0x44F161aE29361E332dEA039DFA2F404E0bC5B5Cc",
+        "explorer": "https://bscscan.com/token/0x44F161aE29361E332dEA039DFA2F404E0bC5B5Cc",
+        "dexscreener": "https://dexscreener.com/bsc/0x44F161aE29361E332dEA039DFA2F404E0bC5B5Cc",
+        "websites": [],
+        "socials": []
+      },
+      "contract_info": {
+        "verified": false,
+        "holders": {}
+      },
+      "verification_data": {
+        "is_verified": true,
+        "is_honeypot": false,
+        "buy_tax": "0",
+        "sell_tax": "0",
+        "owner_address": "0xbb0034e7d417479813026fb6a73890214a31b0da",
+        "can_take_back_ownership": false,
+        "has_mint_function": false,
+        "has_blacklist": false,
+        "is_proxy": true,
+        "verification_source": "GoPlus Security",
+        "error_message": ""
+      },
+      "liquidity_lock": {
+        "is_locked": true,
+        "locked_percentage": 75.0,
+        "unlock_date": "2026-04-18T14:05:23.305138",
+        "lock_duration_days": 180,
+        "platform": "Unicrypt",
+        "lock_contract": "",
+        "total_locked_amount": 0.0,
+        "lock_transaction": "",
+        "is_renewable": false,
+        "lock_owner": "",
+        "lock_score": 80,
+        "safety_level": "HIGH",
+        "warnings": [
+          "⚠️ Заблокировано только 75.0% ликвидности (рекомендуется минимум 80.0%)",
+          "✅ Безопасный срок блокировки: 180 дней"
+        ]
+      },
+      "security_analysis": {
+        "security_score": 0.5830000000000001,
+        "contract_verified": false,
+        "ownership_renounced": false,
+        "liquidity_locked": true,
+        "honeypot_probability": 0.0,
+        "security_issues": [],
+        "security_level": "MEDIUM",
+        "security_recommendations": [
+          "🟡 СРЕДНИЙ РИСК - ТРЕБУЕТСЯ ДОПОЛНИТЕЛЬНЫЙ АНАЛИЗ",
+          "⚠️ Контракт не верифицирован - проверьте исходный код",
+          "⚠️ Владелец не ренонсирован - риск централизации"
+        ],
+        "external_checks": {
+          "honeypot_check": 0.0,
+          "contract_verification": false,
+          "dexscreener": {
+            "found": false
+          },
+          "universal_checks": {
+            "sources": [],
+            "trust_level": "unknown",
+            "risk_score": 0.5
+          }
+        }
+      }
+    },
+    {
+      "basic_info": {
+        "symbol": "YABAI",
+        "name": "YABAI",
+        "network": "solana",
+        "address": "4LRePMApBS2HFfX4ZDZK61n87CJ7rAMuN8ZHNQQXjupx",
+        "age": "2м 1д",
+        "age_hours": 1479.8313359061008
+      },
+      "price_metrics": {
+        "price_usd": 0.0005491,
+        "price_native": 2.864e-06,
+        "price_change_1h": -0.6,
+        "price_change_6h": -1.0,
+        "price_change_24h": 26.77
+      },
+      "market_metrics": {
+        "liquidity_usd": 87711.96,
+        "volume_24h": 8488.35,
+        "volume_6h": 32.32,
+        "volume_1h": 22.77,
+        "volume_liquidity_ratio": 0.09677528583331167,
+        "market_cap": 549191.0,
+        "fdv": 549191.0
+      },
+      "transaction_metrics": {
+        "buys_24h": 11,
+        "sells_24h": 3,
+        "buy_sell_ratio": 0.7857142857142857
+      },
+      "risk_metrics": {
+        "risk_score": 60,
+        "risk_level": "Средний",
+        "risk_factors": [
+          "🚨 КРИТИЧНО: Ликвидность НЕ заблокирована - высокий риск rug pull!"
+        ]
+      },
+      "analysis": {
+        "trend": "КОРРЕКЦИЯ - возможна точка входа",
+        "liquidity": "Средняя ликвидность - рекомендуется осторожность",
+        "age": "Проверенный временем токен (>30 дней)",
+        "transactions": "Преобладают покупки (78.6% транзакций)",
+        "growth": "Стабильный рост"
+      },
+      "links": {
+        "dex": "https://jup.ag/swap/SOL-4LRePMApBS2HFfX4ZDZK61n87CJ7rAMuN8ZHNQQXjupx",
+        "explorer": "https://solscan.io/token/4LRePMApBS2HFfX4ZDZK61n87CJ7rAMuN8ZHNQQXjupx",
+        "dexscreener": "https://dexscreener.com/solana/4LRePMApBS2HFfX4ZDZK61n87CJ7rAMuN8ZHNQQXjupx",
+        "websites": [
+          {
+            "label": "Website",
+            "url": "https://jup.ag/tokens/4LRePMApBS2HFfX4ZDZK61n87CJ7rAMuN8ZHNQQXjupx"
+          }
+        ],
+        "socials": [
+          {
+            "type": "twitter",
+            "url": "https://x.com/yabaixcore"
+          },
+          {
+            "type": "telegram",
+            "url": "https://t.me/yabaixportal"
+          }
+        ]
+      },
+      "contract_info": {
+        "verified": false,
+        "holders": {}
+      },
+      "verification_data": {
+        "is_verified": true,
+        "is_honeypot": false,
+        "buy_tax": "0",
+        "sell_tax": "0",
+        "owner_address": "",
+        "can_take_back_ownership": false,
+        "has_mint_function": false,
+        "has_blacklist": false,
+        "is_proxy": false,
+        "verification_source": "Solana Token Registry",
+        "error_message": ""
+      },
+      "liquidity_lock": {
+        "is_locked": false,
+        "locked_percentage": 0.0,
+        "unlock_date": "",
+        "lock_duration_days": 0,
+        "platform": "",
+        "lock_contract": "",
+        "total_locked_amount": 0.0,
+        "lock_transaction": "",
+        "is_renewable": false,
+        "lock_owner": "",
+        "lock_score": 0,
+        "safety_level": "LOW",
+        "warnings": [
+          "Не удалось найти информацию о блокировке ликвидности",
+          "❌ КРИТИЧНО: Ликвидность НЕ заблокирована! Высокий риск rug pull!"
+        ]
+      },
+      "security_analysis": {
+        "security_score": 0.48300000000000004,
+        "contract_verified": false,
+        "ownership_renounced": true,
+        "liquidity_locked": false,
+        "honeypot_probability": 0.3,
+        "security_issues": [],
+        "security_level": "MEDIUM",
+        "security_recommendations": [
+          "🟡 СРЕДНИЙ РИСК - ТРЕБУЕТСЯ ДОПОЛНИТЕЛЬНЫЙ АНАЛИЗ",
+          "⚠️ Контракт не верифицирован - проверьте исходный код",
+          "⚠️ Ликвидность не заблокирована - риск rug pull"
+        ],
+        "external_checks": {
+          "honeypot_check": 0.3,
+          "contract_verification": false,
+          "dexscreener": {
+            "found": false
+          },
+          "universal_checks": {
+            "sources": [],
+            "trust_level": "unknown",
+            "risk_score": 0.5
+          }
+        }
+      }
+    },
+    {
+      "basic_info": {
+        "symbol": "PLX",
+        "name": "PolyX",
+        "network": "solana",
+        "address": "52KWGFoax5Ed1YbFctptXjSShv1P6R3SqUuo6Hk3pump",
+        "age": "1н",
+        "age_hours": 188.09800257948135
+      },
+      "price_metrics": {
+        "price_usd": 0.0002539,
+        "price_native": 1.324e-06,
+        "price_change_1h": -2.34,
+        "price_change_6h": 2.17,
+        "price_change_24h": 21.51
+      },
+      "market_metrics": {
+        "liquidity_usd": 59717.33,
+        "volume_24h": 119457.03,
+        "volume_6h": 20010.73,
+        "volume_1h": 551.09,
+        "volume_liquidity_ratio": 2.000374598127545,
+        "market_cap": 253329.0,
+        "fdv": 253329.0
+      },
+      "transaction_metrics": {
+        "buys_24h": 269,
+        "sells_24h": 234,
+        "buy_sell_ratio": 0.5347912524850894
+      },
+      "risk_metrics": {
+        "risk_score": 60,
+        "risk_level": "Средний",
+        "risk_factors": [
+          "🚨 КРИТИЧНО: Ликвидность НЕ заблокирована - высокий риск rug pull!"
+        ]
+      },
+      "analysis": {
+        "trend": "ОТКАТ - возможен отскок",
+        "liquidity": "Средняя ликвидность - рекомендуется осторожность",
+        "age": "Токен прошел начальную стабилизацию (>7 дней)",
+        "transactions": "Сбалансированные покупки/продажи",
+        "growth": "Стабильный рост"
+      },
+      "links": {
+        "dex": "https://jup.ag/swap/SOL-52KWGFoax5Ed1YbFctptXjSShv1P6R3SqUuo6Hk3pump",
+        "explorer": "https://solscan.io/token/52KWGFoax5Ed1YbFctptXjSShv1P6R3SqUuo6Hk3pump",
+        "dexscreener": "https://dexscreener.com/solana/52KWGFoax5Ed1YbFctptXjSShv1P6R3SqUuo6Hk3pump",
+        "websites": [
+          {
+            "label": "Website",
+            "url": "https://www.polyxbot.org/"
+          },
+          {
+            "label": "Docs",
+            "url": "https://docs.polyxbot.org/"
+          }
+        ],
+        "socials": [
+          {
+            "type": "twitter",
+            "url": "https://x.com/PolyxBot"
+          },
+          {
+            "type": "telegram",
+            "url": "https://t.me/Polyx_gold_bot"
+          }
+        ]
+      },
+      "contract_info": {
+        "verified": false,
+        "holders": {}
+      },
+      "verification_data": {
+        "is_verified": true,
+        "is_honeypot": false,
+        "buy_tax": "0",
+        "sell_tax": "0",
+        "owner_address": "",
+        "can_take_back_ownership": false,
+        "has_mint_function": false,
+        "has_blacklist": false,
+        "is_proxy": false,
+        "verification_source": "Solana Token Registry",
+        "error_message": ""
+      },
+      "liquidity_lock": {
+        "is_locked": false,
+        "locked_percentage": 0.0,
+        "unlock_date": "",
+        "lock_duration_days": 0,
+        "platform": "",
+        "lock_contract": "",
+        "total_locked_amount": 0.0,
+        "lock_transaction": "",
+        "is_renewable": false,
+        "lock_owner": "",
+        "lock_score": 0,
+        "safety_level": "LOW",
+        "warnings": [
+          "Не удалось найти информацию о блокировке ликвидности",
+          "❌ КРИТИЧНО: Ликвидность НЕ заблокирована! Высокий риск rug pull!"
+        ]
+      },
+      "security_analysis": {
+        "security_score": 0.463,
+        "contract_verified": false,
+        "ownership_renounced": true,
+        "liquidity_locked": false,
+        "honeypot_probability": 0.3,
+        "security_issues": [],
+        "security_level": "MEDIUM",
+        "security_recommendations": [
+          "🟡 СРЕДНИЙ РИСК - ТРЕБУЕТСЯ ДОПОЛНИТЕЛЬНЫЙ АНАЛИЗ",
+          "⚠️ Контракт не верифицирован - проверьте исходный код",
+          "⚠️ Ликвидность не заблокирована - риск rug pull"
+        ],
+        "external_checks": {
+          "honeypot_check": 0.3,
+          "contract_verification": false,
+          "dexscreener": {
+            "found": false
+          },
+          "universal_checks": {
+            "sources": [],
+            "trust_level": "unknown",
+            "risk_score": 0.5
+          }
+        }
+      }
+    },
+    {
+      "basic_info": {
+        "symbol": "ATLAS",
+        "name": "3I/ATLAS",
+        "network": "solana",
+        "address": "2k9LnRAWJJBmmEzgXARwSEzoU1DorBYQHTXZtxusbonk",
+        "age": "2м 3н 1д",
+        "age_hours": 1988.5541136699762
+      },
+      "price_metrics": {
+        "price_usd": 0.0003673,
+        "price_native": 1.899e-06,
+        "price_change_1h": 0.15,
+        "price_change_6h": 6.9,
+        "price_change_24h": 20.63
+      },
+      "market_metrics": {
+        "liquidity_usd": 76872.65,
+        "volume_24h": 4966.13,
+        "volume_6h": 1347.4,
+        "volume_1h": 26.98,
+        "volume_liquidity_ratio": 0.06460203986723498,
+        "market_cap": 367309.0,
+        "fdv": 367309.0
+      },
+      "transaction_metrics": {
+        "buys_24h": 26,
+        "sells_24h": 21,
+        "buy_sell_ratio": 0.5531914893617021
+      },
+      "risk_metrics": {
+        "risk_score": 60,
+        "risk_level": "Средний",
+        "risk_factors": [
+          "🚨 КРИТИЧНО: Ликвидность НЕ заблокирована - высокий риск rug pull!"
+        ]
+      },
+      "analysis": {
+        "trend": "УСТОЙЧИВЫЙ РОСТ - хорошая среднесрочная перспектива",
+        "liquidity": "Средняя ликвидность - рекомендуется осторожность",
+        "age": "Проверенный временем токен (>30 дней)",
+        "transactions": "Сбалансированные покупки/продажи",
+        "growth": "Стабильный рост"
+      },
+      "links": {
+        "dex": "https://jup.ag/swap/SOL-2k9LnRAWJJBmmEzgXARwSEzoU1DorBYQHTXZtxusbonk",
+        "explorer": "https://solscan.io/token/2k9LnRAWJJBmmEzgXARwSEzoU1DorBYQHTXZtxusbonk",
+        "dexscreener": "https://dexscreener.com/solana/2k9LnRAWJJBmmEzgXARwSEzoU1DorBYQHTXZtxusbonk",
+        "websites": [
+          {
+            "label": "Website",
+            "url": "https://atlascto.com/"
+          }
+        ],
+        "socials": [
+          {
+            "type": "twitter",
+            "url": "https://x.com/atlas__cto?s=21"
+          },
+          {
+            "type": "telegram",
+            "url": "https://t.me/ATLAS_PORTAL_1"
+          }
+        ]
+      },
+      "contract_info": {
+        "verified": false,
+        "holders": {}
+      },
+      "verification_data": {
+        "is_verified": true,
+        "is_honeypot": false,
+        "buy_tax": "0",
+        "sell_tax": "0",
+        "owner_address": "",
+        "can_take_back_ownership": false,
+        "has_mint_function": false,
+        "has_blacklist": false,
+        "is_proxy": false,
+        "verification_source": "Solana Token Registry",
+        "error_message": ""
+      },
+      "liquidity_lock": {
+        "is_locked": false,
+        "locked_percentage": 0.0,
+        "unlock_date": "",
+        "lock_duration_days": 0,
+        "platform": "",
+        "lock_contract": "",
+        "total_locked_amount": 0.0,
+        "lock_transaction": "",
+        "is_renewable": false,
+        "lock_owner": "",
+        "lock_score": 0,
+        "safety_level": "LOW",
+        "warnings": [
+          "Не удалось найти информацию о блокировке ликвидности",
+          "❌ КРИТИЧНО: Ликвидность НЕ заблокирована! Высокий риск rug pull!"
+        ]
+      },
+      "security_analysis": {
+        "security_score": 0.48300000000000004,
+        "contract_verified": false,
+        "ownership_renounced": true,
+        "liquidity_locked": false,
+        "honeypot_probability": 0.3,
+        "security_issues": [],
+        "security_level": "MEDIUM",
+        "security_recommendations": [
+          "🟡 СРЕДНИЙ РИСК - ТРЕБУЕТСЯ ДОПОЛНИТЕЛЬНЫЙ АНАЛИЗ",
+          "⚠️ Контракт не верифицирован - проверьте исходный код",
+          "⚠️ Ликвидность не заблокирована - риск rug pull"
+        ],
+        "external_checks": {
+          "honeypot_check": 0.3,
+          "contract_verification": false,
+          "dexscreener": {
+            "found": false
+          },
+          "universal_checks": {
+            "sources": [],
+            "trust_level": "unknown",
+            "risk_score": 0.5
+          }
+        }
+      }
+    },
+    {
+      "basic_info": {
+        "symbol": "DAI",
+        "name": "DAI",
+        "network": "pulsechain",
+        "address": "0xf598cB1D27Fb2c5C731F535AD6c1D0ec5EfE1320",
+        "age": "8м 2н 6д",
+        "age_hours": 6243.329391471693
+      },
+      "price_metrics": {
+        "price_usd": 0.0004584,
+        "price_native": 14.6183,
+        "price_change_1h": 6.44,
+        "price_change_6h": 6.44,
+        "price_change_24h": 20.47
+      },
+      "market_metrics": {
+        "liquidity_usd": 104065.44,
+        "volume_24h": 5855.25,
+        "volume_6h": 3598.14,
+        "volume_1h": 3216.84,
+        "volume_liquidity_ratio": 0.056265077051516815,
+        "market_cap": 458360.0,
+        "fdv": 458360.0
+      },
+      "transaction_metrics": {
+        "buys_24h": 112,
+        "sells_24h": 141,
+        "buy_sell_ratio": 0.4426877470355731
+      },
+      "risk_metrics": {
+        "risk_score": 60,
+        "risk_level": "Средний",
+        "risk_factors": [
+          "Неверифицированный контракт (но крупный/зрелый)",
+          "🚨 КРИТИЧНО: Ликвидность НЕ заблокирована - высокий риск rug pull!"
+        ]
+      },
+      "analysis": {
+        "trend": "УСТОЙЧИВЫЙ РОСТ - хорошая среднесрочная перспектива",
+        "liquidity": "Средняя ликвидность - рекомендуется осторожность",
+        "age": "Проверенный временем токен (>30 дней)",
+        "transactions": "Сбалансированные покупки/продажи",
+        "growth": "Стабильный рост"
+      },
+      "links": {
+        "dex": "https://app.pulsex.com/swap?outputCurrency=0xf598cB1D27Fb2c5C731F535AD6c1D0ec5EfE1320",
+        "explorer": "https://dexscreener.com/pulsechain/0xf598cB1D27Fb2c5C731F535AD6c1D0ec5EfE1320",
+        "dexscreener": "https://dexscreener.com/pulsechain/0xf598cB1D27Fb2c5C731F535AD6c1D0ec5EfE1320",
+        "websites": [],
+        "socials": [
+          {
+            "type": "twitter",
+            "url": "https://x.com/RichardHeartWin"
+          }
+        ]
+      },
+      "contract_info": {
+        "verified": false,
+        "holders": {}
+      },
+      "verification_data": {
+        "is_verified": false,
+        "is_honeypot": false,
+        "buy_tax": "0",
+        "sell_tax": "0",
+        "owner_address": "",
+        "can_take_back_ownership": false,
+        "has_mint_function": false,
+        "has_blacklist": false,
+        "is_proxy": false,
+        "verification_source": "pulsechain (не поддерживается)",
+        "error_message": ""
+      },
+      "liquidity_lock": {
+        "is_locked": false,
+        "locked_percentage": 0.0,
+        "unlock_date": "",
+        "lock_duration_days": 0,
+        "platform": "",
+        "lock_contract": "",
+        "total_locked_amount": 0.0,
+        "lock_transaction": "",
+        "is_renewable": false,
+        "lock_owner": "",
+        "lock_score": 0,
+        "safety_level": "LOW",
+        "warnings": [
+          "Не удалось найти информацию о блокировке ликвидности",
+          "❌ КРИТИЧНО: Ликвидность НЕ заблокирована! Высокий риск rug pull!"
+        ]
+      },
+      "security_analysis": {
+        "security_score": 0.48300000000000004,
+        "contract_verified": false,
+        "ownership_renounced": true,
+        "liquidity_locked": false,
+        "honeypot_probability": 0.3,
+        "security_issues": [],
+        "security_level": "MEDIUM",
+        "security_recommendations": [
+          "🟡 СРЕДНИЙ РИСК - ТРЕБУЕТСЯ ДОПОЛНИТЕЛЬНЫЙ АНАЛИЗ",
+          "⚠️ Контракт не верифицирован - проверьте исходный код",
+          "⚠️ Ликвидность не заблокирована - риск rug pull"
+        ],
+        "external_checks": {
+          "honeypot_check": 0.3,
+          "contract_verification": false,
+          "dexscreener": {
+            "found": false
+          },
+          "universal_checks": {
+            "sources": [],
+            "trust_level": "unknown",
+            "risk_score": 0.5
+          }
+        }
+      }
+    }
+  ]
+}
